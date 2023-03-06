@@ -1,0 +1,1 @@
+"Linux 57535b8643d2 5.3.0-1032-aws #34~18.04.2-Ubuntu SMP Fri Jul 24 10:06:28 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux" 
